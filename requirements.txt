@@ -1,6 +1,1 @@
-sys
-os
-subprocess
-threading
-concurrent.futures
-telebot
+pyTelegramBotAPI
